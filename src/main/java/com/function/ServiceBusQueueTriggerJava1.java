@@ -9,6 +9,7 @@ import com.microsoft.azure.functions.*;
 public class ServiceBusQueueTriggerJava1 {
     /**
      * This function will be invoked when a new message is received at the Service Bus Queue.
+     * Adding Notes
      */
     @FunctionName("ServiceBusQueueTriggerJava1")
     public void run(
